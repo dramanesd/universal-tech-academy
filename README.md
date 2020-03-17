@@ -3,6 +3,7 @@
 ### Course Platform App - Universal Tech Academy
 
 To run the project cd to the project folder
+
 Assuming that you have venv installed
 
 On windows:
